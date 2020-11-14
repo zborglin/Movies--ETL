@@ -127,3 +127,14 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Large files
+credits.csv
+ratings.csv
+
+# Passwords
+config.py
+
+#large datasets
+Resources/
+Module_8_exercises/
