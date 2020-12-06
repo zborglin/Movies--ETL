@@ -136,6 +136,6 @@ ratings.csv
 config.py
 
 #large datasets
-Resources/ratings
-Resources/movies_metadata
+#Resources/ratings
+#Resources/movies_metadata
 Module_8_exercises/
